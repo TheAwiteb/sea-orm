@@ -56,6 +56,7 @@ If you have built an app using SeaORM and want to showcase it, feel free to open
 - [rust-juniper-playground](https://github.com/Yama-Tomo/rust-juniper-playground) | juniper with SeaORM example | DB: MySQL
 - [service_auth](https://github.com/shorii/service_auth) | A simple JWT authentication web-application | DB: Postgres
 - [example](https://example.com) | Magna aute tempor irure ullamco laborum quis proident velit amet consequat.
+- [dxample](https://example.com) | Id nulla veniam ex sit ipsum reprehenderit ut consequat laborum veniam aute laboris id.
 #### Social
 - [JinShu](https://github.com/gengteng/jinshu) | A cross-platform **I**nstant **M**essaging system written in 🦀 | DB: MySQL, Postgres
 - [THUBurrow](https://thuburrow.com) ([repository](https://github.com/BobAnkh/THUBurrow)) | A campus forum built by Next.js and Rocket | DB: Postgres
