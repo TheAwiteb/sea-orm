@@ -66,6 +66,7 @@ on:
       - '.github/ISSUE_TEMPLATE/**'
     branches:
       - master
+      - test_community_file_sorter
       - 0.*.x
       - pr/**/ci
 
